@@ -41,7 +41,7 @@ Các thành phần chính:
 ### 4.1. Poster
 
 <p align="center">
-  <img src="images/poster.png" width="500" alt="Poster">
+  <img src="images/Poster.png" width="500" alt="Poster">
 </p>
 
 ### 4.2. Mô hình Desk Buddy

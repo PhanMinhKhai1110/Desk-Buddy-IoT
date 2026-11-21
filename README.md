@@ -38,19 +38,25 @@ Các thành phần chính:
 
 ## 4. Hình ảnh dự án
 
-### 4.1. Mô hình Desk Buddy
+### 4.1. Poster
 
 <p align="center">
-  <img src="images/desk-buddy.png" width="500" alt="Mô hình Desk Buddy">
+  <img src="poster.png" width="500" alt="Poster">
 </p>
 
-### 4.2. Sơ đồ hệ thống
+### 4.2. Mô hình Desk Buddy
+
+<p align="center">
+  <img src="images/desk-buddy.jpg" width="500" alt="Mô hình Desk Buddy">
+</p>
+
+### 4.3. Sơ đồ hệ thống
 
 <p align="center">
   <img src="images/system-diagram.png" width="800" alt="Sơ đồ hệ thống Desk Buddy">
 </p>
 
-### 4.3. Các linh kiện sử dụng
+### 4.4. Các linh kiện sử dụng
 
 <p align="center">
   <img src="images/components.png" width="700" alt="Các linh kiện Desk Buddy">

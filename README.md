@@ -80,7 +80,7 @@ Các thành phần chính:
 
 ## 7. Thông tin dự án
 
-- Sinh viên thực hiện: Phan Minh Khải
+- Sinh viên thực hiện: Phan Minh Khải, Đinh Quang Huy
 - Nền tảng: Arduino Uno R3
 - Ngôn ngữ: Arduino C/C++
 - Công cụ phát triển: Arduino IDE
